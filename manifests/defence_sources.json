@@ -1,0 +1,23 @@
+{
+  "description": "Public-domain / open national security & defence documents. Prefer original URLs; mirrors and Internet Archive snapshots are fetched automatically as fallbacks.",
+  "sources": [
+    {
+      "id": "nato_strategic_concept_2022",
+      "title": "NATO 2022 Strategic Concept",
+      "url": "https://www.nato.int/nato_static_fl2014/assets/pdf/2022/6/pdf/290622-strategic-concept.pdf",
+      "note": "Adopted at the Madrid Summit; outlines deterrence, collective defence, resilience."
+    },
+    {
+      "id": "dod_instruction_3000.09",
+      "title": "DoD Instruction 3000.09 Autonomy in Weapon Systems",
+      "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/300009p.pdf",
+      "note": "US DoD policy on autonomous and semi-autonomous weapon systems."
+    },
+    {
+      "id": "afdp1_air_force_doctrine",
+      "title": "Air Force Doctrine Publication 1 (AFDP-1)",
+      "url": "https://www.doctrine.af.mil/Portals/61/documents/AFDP_1/AFDP-1.pdf",
+      "note": "The Air Force's capstone doctrine publication."
+    }
+  ]
+}
