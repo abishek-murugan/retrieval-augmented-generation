@@ -13,3 +13,9 @@ wheels/
 # Environment variables
 .env
 .vscode
+
+# Generated artifacts
+data/
+.pytest_cache
+.ruff_cache
+.mypy_cache
